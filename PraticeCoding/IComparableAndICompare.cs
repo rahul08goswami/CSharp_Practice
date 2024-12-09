@@ -23,7 +23,7 @@ namespace PraticeCoding
             customers.Add(CreateCustomer("Debjit", "Hydrabad"));
             customers.Add(CreateCustomer("Arghya", "Hydrabad"));
 
-            customers.Sort();
+            customers.Sort(new CompareByAddress());
 
             return customers;
 
@@ -38,5 +38,21 @@ namespace PraticeCoding
         }
 
 
+    }
+
+    public class CompareByName : IComparer<Customer>
+    {
+        public int Compare(Customer x, Customer y)
+        {
+           return string.Compare(x.Name, y.Name);
+        }
+    }
+
+    public class CompareByAddress : IComparer<Customer>
+    {
+        public int Compare(Customer x, Customer y)
+        {
+            return x.Address.CompareTo(y.Address);
+        }
     }
 }

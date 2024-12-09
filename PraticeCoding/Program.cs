@@ -21,8 +21,21 @@ namespace PraticeCoding
             //Customer cust = (Customer)serialization.Deserialize();
 
             //IComparable and IComparer Interface
-            IComparableAndICompare comparableAndICompare = new IComparableAndICompare();
-            comparableAndICompare.DisplayCustomers(comparableAndICompare.GetCustomer());
+            //IComparableAndICompare comparableAndICompare = new IComparableAndICompare();
+            //comparableAndICompare.DisplayCustomers(comparableAndICompare.GetCustomer());
+
+            //Yield Keyword
+            //Yield yield = new Yield();
+            //yield.FillValues();
+            //yield.Display(yield.list);
+
+            //Indexer
+            Address address = new Address();
+            Address address1 = new Address();
+            address.AddAddress();
+            address1 = address[829122];
+            address1 = address["54321"];
+            Console.WriteLine(address1.PinCode);
             Console.ReadLine();
 
 
