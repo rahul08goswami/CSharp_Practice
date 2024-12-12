@@ -9,6 +9,15 @@ namespace PraticeCoding
     [Serializable]
     public class Customer : IComparable<Customer>
     {
+        public override bool Equals(object obj)
+        {
+            Customer customer = obj as Customer;
+            if (customer.Name == this.Name)
+            {
+                return true;
+            }
+            return false;
+        }
         public string Name { get; set; }
         public string Address { get; set; }
 
