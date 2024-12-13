@@ -100,8 +100,15 @@ namespace PraticeCoding
             //Console.WriteLine("Your Name " + str);
 
             //Enums
-            Enums enums = new Enums();
-            enums.CallEnums();
+            //Enums enums = new Enums();
+            //enums.CallEnums();
+
+            //var x = new { Value = 1 }; var y = new { Value = 1 }; Console.WriteLine(x == y);// False
+
+            //MSMQ
+            MSMQ mSMQ = new MSMQ();
+            mSMQ.SendMessage();
+            mSMQ.ReadMessage();
             Console.Read();
 
 
