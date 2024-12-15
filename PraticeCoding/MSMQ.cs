@@ -42,33 +42,10 @@ namespace PraticeCoding
             Message message1 = messageQueue.Receive();
             message1.Formatter = new BinaryMessageFormatter();
             string ReadMsg = message1.Body.ToString();
-            if(String.IsNullOrEmpty(ReadMsg))
+            if (String.IsNullOrEmpty(ReadMsg))
                 Console.WriteLine("No message to display");
             Console.WriteLine(ReadMsg);
 
         }
-
-        //public void ReadMessage()
-        //{
-        //    Console.WriteLine("Latest Message");
-        //    MessageQueue messageQueue;
-        //    string ReadMsg = "";
-        //    if (MessageQueue.Exists(@".\Private$\MyQueue"))
-        //    {
-        //        messageQueue = new MessageQueue();
-        //        Message message1 = messageQueue.Receive();
-        //        message1.Formatter = new BinaryMessageFormatter();
-        //        ReadMsg = message1.Body.ToString();
-
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("No message to display");
-        //    }
-
-
-        //    Console.WriteLine(ReadMsg);
-
-        //}
     }
 }

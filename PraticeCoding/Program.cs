@@ -10,6 +10,8 @@ using System.Runtime.CompilerServices;
 using ClassLibrary1;
 using System.Reflection;
 using System.Threading;
+using AutoMapper;
+using System.Diagnostics;
 
 namespace PraticeCoding
 {
@@ -77,12 +79,12 @@ namespace PraticeCoding
             //dynamic obj = Activator.CreateInstance(myType);
             //Type parameterType = obj.GetType();
 
-            //foreach (MemberInfo member in parameterType.GetMembers() )
+            //foreach (MemberInfo member in parameterType.GetMembers())
             //{
             //    Console.WriteLine(member.Name);
             //}
-            //int res = parameterType.InvokeMember("Add",BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.InvokeMethod | BindingFlags.Instance
-            //    , null, obj,null);
+            //int res = parameterType.InvokeMember("Add", BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.InvokeMethod | BindingFlags.Instance
+            //    , null, obj, null);
 
             //Async And Await
             //AsyncAwait asyncAwait = new AsyncAwait();
@@ -106,13 +108,47 @@ namespace PraticeCoding
             //var x = new { Value = 1 }; var y = new { Value = 1 }; Console.WriteLine(x == y);// False
 
             //MSMQ
-            MSMQ mSMQ = new MSMQ();
-            mSMQ.SendMessage();
-            mSMQ.ReadMessage();
+            //MSMQ mSMQ = new MSMQ();
+            //mSMQ.SendMessage();
+            //mSMQ.ReadMessage();
+
+            //Attribute
+            //Customer customer = new Customer("Testttttttttttttttttttttttttttttttttttttttttttt");
+            //customer.Name = "Testtttttttttttttttttttttttttttttttttttttttttttttt"; 
+            //Attributee attributee = new Attributee();
+            //attributee.callAtt();
+
+            //AutoMapper
+            //Automapper mapper = new Automapper();
+            //mapper.CallMapper();
+
+            //Data Annotation
+            //DataAnnotation dataAnnotation = new DataAnnotation();
+            //dataAnnotation.callAnnotation();
+
+            //Random and Guid
+            //Random random = new Random();
+            //Console.WriteLine(random.Next(100, 200));
+            //Guid guid = Guid.NewGuid();
+            //Console.WriteLine(guid.ToString("N")); //N - No Space  B - Brace
+
+            //Exception
+            //ExceptionDemo exceptionDemo = new ExceptionDemo();
+            //exceptionDemo.Fun1();
+
+            //Preprocessor Derectives
+            //PreProcessor processor = new PreProcessor();
+            //processor.InPreProcessor();
+            //processor.callMe();
+#if (x64)
+            Console.WriteLine("In x64 Mode");
+#endif
+            Console.WriteLine("Done");
             Console.Read();
 
 
         }
+        
     }
 
 }
