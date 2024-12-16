@@ -17,7 +17,6 @@ namespace PraticeCoding
 {
     internal class Program
     {
-
         static void Main(string[] args)
         {
             //Serialization and Deserialization
@@ -140,10 +139,29 @@ namespace PraticeCoding
             //PreProcessor processor = new PreProcessor();
             //processor.InPreProcessor();
             //processor.callMe();
-#if (x64)
-            Console.WriteLine("In x64 Mode");
-#endif
-            Console.WriteLine("Done");
+            //#if (x64)
+            //            Console.WriteLine("In x64 Mode");
+            //#endif
+            //            Console.WriteLine("Done");
+
+            //Threading
+            Threading threading = new Threading();
+            //Thread thread = new Thread(threading.Divide);
+            //thread.Start();
+            //threading.Divide();
+            //Mutex -- Restrict external thread only 1 thread can be executed
+            //threading.Muteex();
+            //Sepmapjore -- Multiple External thread can run withing a limit
+            //threading.Semaphorre();
+
+            //AutoResetEvent -> For Every WaitOne a Set is require to send signal
+            //threading.AutoResetEventt();
+            //ManualResetEven --> 1 Set for all WaitOne
+            //threading.ManualResetEventt();
+
+            //Thread Pool
+            //threading.Result();
+            threading.TPLResult();
             Console.Read();
 
 
