@@ -75,11 +75,13 @@
     <Compile Include="AsyncAwait.cs" />
     <Compile Include="Automapper.cs" />
     <Compile Include="CheckAttribute.cs" />
+    <Compile Include="Collection.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="DataAnnotation.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="ExceptionDemo.cs" />
     <Compile Include="ExtensionMentods.cs" />
+    <Compile Include="Generic.cs" />
     <Compile Include="IComparableAndICompare.cs" />
     <Compile Include="MSMQ.cs" />
     <Compile Include="Person.cs" />

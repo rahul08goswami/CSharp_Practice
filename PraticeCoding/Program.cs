@@ -12,6 +12,7 @@ using System.Reflection;
 using System.Threading;
 using AutoMapper;
 using System.Diagnostics;
+using System.Collections;
 
 namespace PraticeCoding
 {
@@ -161,12 +162,55 @@ namespace PraticeCoding
 
             //Thread Pool
             //threading.Result();
-            threading.TPLResult();
+            //threading.TPLResult();
+
+            //Collection
+            //Collection collection = new Collection();
+            //collection.ArrayList();
+            //collection.HastTable();
+            //collection.Queuee(); //FIFO
+            //collection.stack(); //LIFO
+
+            //Generics
+            //Generic<int> generic = new Generic<int>();
+            //Generic<string> g = new Generic<string>();
+            //Console.WriteLine(generic.IsSame(2, 2));
+            //Console.WriteLine(g.IsSame("Rahul","Rahul"));
+
+            //IEnumrable
+            Customer customer = new Customer();
+            //customer.Address = "Delhi";
+            //customer.Name = "Aryan";
+            //IEnumerable temp = customer.LoadCustomers(); // Can iterate the collection only
+            //ICollection temp = customer.LoadCustomers(); // Can iterate the collection and see the count as well
+            //IList temp = customer.LoadCustomers(); // Gives Full access in caller and retuens ArrayList
+            //IDictionary temp = customer.LoadCustomersWithDic(); // Gives Full access in caller and retuens HasTable
+            //IEnumerable temp = customer.LoadCustomersWithDic(); // Gives Full access in caller and retuens HasTable
+            //temp.Add(customer);
+
+            //Console.WriteLine(temp.Count);
+
+            //foreach (var item in temp)
+            //{
+            //    Customer cust = (Customer)item;
+            //    Console.WriteLine(cust.Address);
+            //}
+
+            // Iterate HasTable
+            //for (int i = 1; i <= temp.Count; i++)
+            //{
+            //    Customer c = temp["Cust" + i] as Customer;
+            //    Console.WriteLine(c.Address);
+            //}
+
+            customer.IEnumerableIterate();
+            customer.IEnumeratorIerate();
+
             Console.Read();
 
 
         }
-        
+
     }
 
 }
