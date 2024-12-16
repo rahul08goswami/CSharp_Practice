@@ -3,22 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PraticeCoding||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\preprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\preprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\threading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\threading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\exceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\exceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\exceptiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,43 +35,8 @@
       "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\checkattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\yield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\yield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\serialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\icomparableandicompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\icomparableandicompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40A5E372-2679-41A7-B77F-205F5A4AED3F}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\classlibrary1\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A5E372-2679-41A7-B77F-205F5A4AED3F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\msmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\msmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\praticecoding\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|solutionrelative:praticecoding\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F251B8-33E9-400E-9ED5-A0E8BDF51ECE}|PraticeCoding\\PraticeCoding.csproj|c:\\users\\rahul\\source\\repos\\csharp_practice\\praticecoding\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Program.cs",
               "RelativeDocumentMoniker": "PraticeCoding\\Program.cs",
               "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Program.cs",
               "RelativeToolTip": "PraticeCoding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAwMwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T02:53:38.459Z",
               "IsPinned": true,
@@ -94,32 +64,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PraticeCoding",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\PraticeCoding.csproj",
-              "RelativeDocumentMoniker": "PraticeCoding\\PraticeCoding.csproj",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\PraticeCoding.csproj",
-              "RelativeToolTip": "PraticeCoding\\PraticeCoding.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-15T04:34:26.399Z",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Customer.cs",
+              "RelativeDocumentMoniker": "PraticeCoding\\Customer.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Customer.cs",
+              "RelativeToolTip": "PraticeCoding\\Customer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:19:19.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PreProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\PreProcessor.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\PreProcessor.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\PreProcessor.cs",
-              "RelativeToolTip": "PraticeCoding\\PreProcessor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Generic.cs",
+              "RelativeDocumentMoniker": "PraticeCoding\\Generic.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Generic.cs*",
+              "RelativeToolTip": "PraticeCoding\\Generic.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T04:08:51.31Z",
+              "WhenOpened": "2024-12-16T10:57:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Collection.cs",
+              "RelativeDocumentMoniker": "PraticeCoding\\Collection.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Collection.cs",
+              "RelativeToolTip": "PraticeCoding\\Collection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:49:17.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Threading.cs",
+              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Threading.cs",
+              "RelativeDocumentMoniker": "PraticeCoding\\Threading.cs",
+              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Threading.cs",
+              "RelativeToolTip": "PraticeCoding\\Threading.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:47:51.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExceptionDemo.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\ExceptionDemo.cs",
               "RelativeDocumentMoniker": "PraticeCoding\\ExceptionDemo.cs",
@@ -127,12 +124,11 @@
               "RelativeToolTip": "PraticeCoding\\ExceptionDemo.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T03:05:10.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T03:05:10.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataAnnotation.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\DataAnnotation.cs",
               "RelativeDocumentMoniker": "PraticeCoding\\DataAnnotation.cs",
@@ -156,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CheckAttribute.cs",
               "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\CheckAttribute.cs",
               "RelativeDocumentMoniker": "PraticeCoding\\CheckAttribute.cs",
@@ -165,115 +161,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T10:59:52.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Automapper.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Automapper.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Automapper.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Automapper.cs",
-              "RelativeToolTip": "PraticeCoding\\Automapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T10:57:46.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Person.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Person.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Person.cs",
-              "RelativeToolTip": "PraticeCoding\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T10:33:18.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Enums.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Enums.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Enums.cs",
-              "RelativeToolTip": "PraticeCoding\\Enums.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwBUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:10:54.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Maths.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\ClassLibrary1\\Maths.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Maths.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\ClassLibrary1\\Maths.cs",
-              "RelativeToolTip": "ClassLibrary1\\Maths.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T16:01:06.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Customer.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Customer.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Customer.cs",
-              "RelativeToolTip": "PraticeCoding\\Customer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAlwC4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:49:15.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MSMQ.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\MSMQ.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\MSMQ.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\MSMQ.cs",
-              "RelativeToolTip": "PraticeCoding\\MSMQ.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T17:26:02.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Serialization.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Serialization.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Serialization.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Serialization.cs",
-              "RelativeToolTip": "PraticeCoding\\Serialization.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowAsAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T18:05:38.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IComparableAndICompare.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\IComparableAndICompare.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\IComparableAndICompare.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\IComparableAndICompare.cs",
-              "RelativeToolTip": "PraticeCoding\\IComparableAndICompare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T11:14:03.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Address.cs",
-              "RelativeDocumentMoniker": "PraticeCoding\\Address.cs",
-              "ToolTip": "C:\\Users\\rahul\\source\\repos\\CSharp_Practice\\PraticeCoding\\Address.cs",
-              "RelativeToolTip": "PraticeCoding\\Address.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:48:12.908Z"
             }
           ]
         }
